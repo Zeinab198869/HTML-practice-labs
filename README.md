@@ -15,7 +15,7 @@ A collection of HTML practice labs completed as part of my self-directed learnin
 | [Video Compilation Page](./video%20compilation%20page) | A page embedding multiple videos using `<iframe>` |
 | [List of Major Web Browsers](./list%20of%20major%20web%20browsers) | A description list (`<dl>`, `<dt>`, `<dd>`) of popular browsers |
 | [Mr. Whiskers' Blog](./cat%20blog%20page) | A blog page using semantic HTML: `<header>`, `<main>`, `<article>`, `<footer>` |
-| [Responsive Donation Form](./Responsive-donation-form) | A simple donation form with name, email, amount, and newsletter subscription fields |
+| [Responsive Donation Form](./responsive-donation-form) | A simple donation form with name, email, amount, and newsletter subscription fields |
 
 ## About
 
