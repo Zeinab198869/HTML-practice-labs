@@ -16,7 +16,7 @@ A collection of HTML practice labs completed as part of my self-directed learnin
 | [List of Major Web Browsers](./list%20of%20major%20web%20browsers) | A description list (`<dl>`, `<dt>`, `<dd>`) of popular browsers |
 | [Mr. Whiskers' Blog](./cat%20blog%20page) | A blog page using semantic HTML: `<header>`, `<main>`, `<article>`, `<footer>` |
 | [Responsive Donation Form](./responsive-donation-form) | A simple donation form with name, email, amount, and newsletter subscription fields |
-| [Accessible Audio Controller](./accessible%20audio%20controller) | An accessible audio player page using HTML and ARIA attributes to enhance screen reader accessibility. |
+| [Accessible Audio Controller](./accessible-audio-controller) | An accessible audio player page using HTML and ARIA attributes to enhance screen reader accessibility. |
 
 ## About
 
